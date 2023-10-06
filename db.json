@@ -57,8 +57,8 @@
                 {
                     "purchedItem": "Placanje Racuna",
                     "category": "1",
-                    "dateTime": "2024-07-01T00:00:00.000Z",
-                    "amountSpent": 9000
+                    "dateTime": "2022-12-01T01:00:00.000Z",
+                    "amountSpent": 8000
                 },
                 {
                     "purchedItem": "Klopanje u Kaldu",
@@ -91,31 +91,7 @@
                     "dateTime": "2023-10-06T15:21:18.944Z"
                 }
             ]
-        },
-        {
-            "name": "TestName",
-            "surname": "TestSurname",
-            "accamount": 20000,
-            "email": "test@gmail.com",
-            "password": "Test123$",
-            "transactions": [],
-            "id": 4
-        },
-        {
-            "name": "test",
-            "surname": "test2",
-            "accamount": 20000,
-            "email": "pera@gmail.com",
-            "password": "Test123$",
-            "transactions": [
-                {
-                    "purchedItem": "test",
-                    "amountSpent": 2000,
-                    "category": 1,
-                    "dateTime": "2023-10-06T18:14:00.200Z"
-                }
-            ],
-            "id": 5
         }
     ]
 }
+

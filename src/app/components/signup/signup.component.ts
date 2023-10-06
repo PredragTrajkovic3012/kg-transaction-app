@@ -57,7 +57,7 @@ export class SignupComponent implements OnInit, OnDestroy {
                     this.signUpFormGroup.reset()
                     this.timeout = setTimeout(() => {
                         this.router.navigate(['login'])
-                    }, 3000)
+                    }, 2000)
                 }
             },
             err => {
